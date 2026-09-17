@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://anshvermacoding.github.io/FunngroRedesign/sitemap.xml
